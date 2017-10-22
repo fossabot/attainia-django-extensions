@@ -12,7 +12,7 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = "attainia-django-extensions"
+NAME = "attainia_django_extensions"
 DESCRIPTION = "My short description for my project."
 URL = "https://gitlab.attainia.cloud/glenn.siegman/attainia-django-extensions"
 EMAIL = "devs@attainia.com"
