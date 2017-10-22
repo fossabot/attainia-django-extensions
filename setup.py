@@ -71,7 +71,7 @@ setup(
     author=AUTHOR,
     author_email=EMAIL,
     url=URL,
-    py_modules=["attainia_django_extensions"],
+    packages=find_packages(exclude=("tests",)),
     install_requires=REQUIRED,
     include_package_data=True,
     license="MIT",
