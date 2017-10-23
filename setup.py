@@ -13,10 +13,10 @@ from setuptools import find_packages, setup, Command
 
 # Package meta-data.
 NAME = "attainia_django_extensions"
-DESCRIPTION = "My short description for my project."
-URL = "https://gitlab.attainia.cloud/glenn.siegman/attainia-django-extensions"
-EMAIL = "devs@attainia.com"
-AUTHOR = "Caffeine Driven Development"
+DESCRIPTION = "A collection of helpful utilities to be used in Attainia Django/Rest Framework projects"
+URL = "https://github.com/Attainia/attainia-django-extensions"
+EMAIL = "developers@attainia.com"
+AUTHOR = "Attainia"
 
 REQUIRED = ["django", ]
 
